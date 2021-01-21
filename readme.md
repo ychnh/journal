@@ -4,7 +4,7 @@ to concretely breaking down the process of approach and understanding the proble
 
 # 210121
 
-#### If the cardinality of A,B is A<B and B<A then A=B
+### If the cardinality of A,B is A<B and B<A then A=B
 
 Continuing the problem. You initially proposed a simple way to construct a bijection which had some problems.
 Which was f combined with ginv for a g(f(A)c), a subset of A
@@ -16,11 +16,11 @@ What is the complete set of possibilities?
 What must be true? What cannot change?
 * This helped me to narrow down some connections between the two domains, leaving out some guesswork.
 
-#### a fresh start
+### a fresh start
 
 Sometimes we all yearn for a fresh start
 
-#### A hill to die on.
+### A hill to die on.
 
 Often times I think it is important to choose a good hill to die on or giveup.
 Just as in working out sometimes you know when you need to stop the current approach and readjust.
@@ -34,7 +34,7 @@ I say stick with the current course and keep going. You must endure it.
 
 # 210120
 
-#### If the cardinality of A,B is A<B and B<A then A=B
+### If the cardinality of A,B is A<B and B<A then A=B
 
 The solution involves constructing a bijection.
 I have been struggling with this one for a while.
