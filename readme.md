@@ -4,6 +4,25 @@ to concretely breaking down the process of approach and understanding the proble
 
 # 210121
 
+    If the cardinality of A,B is A<B and B<A then A=B
+
+Continuing the problem. You initially proposed a simple way to construct a bijection which had some problems.
+Which was f combined with ginv for a g(f(A)c), a subset of A
+
+How can it be the ____ change to satistfy the condition?
+* This question helped me to devise a plan to modify the initial function which was not working
+
+What is the complete set of possibilities?
+* Perhaps this was a question that I should have considered earlier.
+
+What must be true? What cannot change?
+* This helped me to narrow down some connections between the two domains, leaving out some guesswork.
+
+
+    A Fresh start
+
+Sometimes we all yearn for a fresh start
+
     A hill to die on.
 
 Often times I think it is important to choose a good hill to die on or giveup.
@@ -39,3 +58,6 @@ Is this a valid object?
 If not how can it be improved?
 
 Objects and methods
+
+
+
