@@ -15,11 +15,15 @@ I had trouble wrapping my head around the objects in the problem.
 What helped was 
 
 ```
-Going through the problem in my head again, working through the problem again like rereading a book from the beginning
+Going through the problem in my head again, 
+working through the problem again
+like rereading a book from the beginning
 ```
 The second thing I realized that I had trouble and issues with was
 ```
-Set good starting points. Perhaps more than one. And have confidence in them that they are good starting points
+Set good starting points.
+Perhaps more than one.
+And have confidence in them that they are good starting points
 ```
 Often times when I start a new problem, the initial statements given in the problem give me a rush and a surge of joy as it gives me what I percieve as a good/solid starting point in which to work out the problem. Similar points must be made during the process of problem solving, and treated with the same kind of faith and trust.
 
