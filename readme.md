@@ -4,6 +4,13 @@ to concretely breaking down the process of approach and understanding the proble
 
 # 210122
 
+### Cardinality of A,B must be <,>,or =
+When I do not know what to anything
+```
+Is there something more fundamental which I can use to define what seems natural?
+```
+
+### Revisiting Axiom of Choice
 I was thinking back about the Axiom of Choice
 I dont have a clue what they were or how to prove the relationship between them.
 I think this goes back to the point that I must be better at problem solving, not memorize or recall the relationships between theorems.
