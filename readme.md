@@ -2,6 +2,26 @@ Here is a journal which I attempt to log and focus on the process of problem sol
 This marks a shift from the previous approach of logging the varying discoveries which I have encountered
 to concretely breaking down the process of approach and understanding the problem at hand.
 
+# 210122
+
+I was thinking back about the Axiom of Choice
+I dont have a clue what they were or how to prove the relationship between them.
+I think this goes back to the point that I must be better at problem solving, not memorize or recall the relationships between theorems.
+
+### If the cardinality of A,B is A<B and B<A then A=B
+
+Ok so I finally broke free of the problem, after narrowing down the problem using (what must be true)
+I had trouble wrapping my head around the objects in the problem.
+What helped was 
+
+``` Going through the problem in my head again, working through the problem again like rereading a book from the beginning
+```
+The second thing I realized that I had trouble and issues with was
+``` Set good starting points. Perhaps more than one. And have confidence in them that they are good starting points
+```
+Often times when I start a new problem, the initial statements given in the problem give me a rush and a surge of joy as it gives me what I percieve as a good/solid starting point in which to work out the problem. Similar points must be made during the process of problem solving, and treated with the same kind of faith and trust.
+
+
 # 210121
 
 ### If the cardinality of A,B is A<B and B<A then A=B
