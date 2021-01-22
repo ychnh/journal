@@ -1,6 +1,10 @@
 Here is a journal which I attempt to log and focus on the process of problem solving.
 This marks a shift from the previous approach of logging the varying discoveries which I have encountered
 to concretely breaking down the process of approach and understanding the problem at hand.
+Why focus on the process?
+```
+The journey is more important than the destination
+```
 
 # 210122
 
@@ -19,7 +23,8 @@ Whichever method gives you some nice objects to work with as a starting point.
 ### Revisiting Axiom of Choice
 I was thinking back about the Axiom of Choice
 I dont have a clue what they were or how to prove the relationship between them.
-I think this goes back to the point that I must be better at problem solving, not memorize or recall the relationships between theorems.
+I think this goes back to the point that I must be better at problem solving, 
+not memorize or recall the relationships between theorems.
 
 ### If the cardinality of A,B is A<B and B<A then A=B
 
