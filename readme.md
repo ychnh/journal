@@ -4,10 +4,16 @@ to concretely breaking down the process of approach and understanding the proble
 
 # 210122
 
+
+
 ### Cardinality of A,B must be <,>,or =
 When I do not know what to anything
 ```
 Is there something more fundamental which I can use to define what seems natural?
+```
+When do I use contradiction? When do I not use it?
+```
+Whichever method gives you some nice objects to work with as a starting point.
 ```
 
 ### Revisiting Axiom of Choice
