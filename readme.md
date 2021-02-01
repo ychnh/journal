@@ -1,24 +1,60 @@
+# TODO
+Review the connections btw Zorn, Ax, and Well Ordering
+* focus on zorn-wo
+
+# Overview
 Here is a journal which I attempt to log and focus on the process of problem solving.
 This marks a shift from the previous approach of logging the varying discoveries which I have encountered
 to concretely breaking down the process of approach and understanding the problem at hand.
 Why focus on the process?
-```
-The journey is more important than the destination
-```
+
+I think you should not measure progress from a day to day basis on the number of pages of proofs you complete.
+Because some are more difficult than others.
+*The journey is more important than the destination*
+
+# 210126
+
+### For cardinal numbers a,b one of the following is true. a<b a>b a=b
+If I cannot form an injection in 1 direction, i should be able to use the failed injection to form an injection in the other direction.
+Why would it fail? becacuse it doesn't have enough elements in the image to embedded.
+
+If we cannot form a 1-way injection, there should be a way to form the injection the other way.
+*What do we need to continue?* 
+We need the mapping, it would be nice to find the exact point at which it fails or the point right before where it fails.
+*Can you construct it?*
+What involves in the construction?
+We see an example of construction by Zorn's Lemma. 
+This type of construction is interesting and is quite fundamental 
+*How is it similar or different from what you know?*
+It is simliar in the sense that you iterate
+Wait the well ordering principal is a product of zorn
+And induction is based on this
+So yes. It is induction.
+*How is it different?*
+From a high level, this problem doesn't prove the property for all elements, in a upwards fashion
+Instead it finds a specific point, the maximal point which satisfies a particular property.
+
+During typical induction i have done before I have proved something for basecase
+and extend this to all n
+In the proof of induction is that if it were false then you look at the minimum of which it failed and step once from here.
+In this proof, I look at the maximal element of the family and step once and show that it cannot be true to prove a particular thing about family
+
+
+
+### On having a meaningful/tangible goal
+When i was writing a small tool in python, i felt a remarkable difference in attitude compared to doing mathematics.
+What is the difference? I think the attitude aligned in similar way should help in your pursuit of the problem
+You have got to want it bad i think
 
 # 210122
 
 
-
 ### Cardinality of A,B must be <,>,or =
 When I do not know what to anything
-```
-Is there something more fundamental which I can use to define what seems natural?
-```
+*Is there something more fundamental which I can use to define what seems natural?*
+
 When do I use contradiction? When do I not use it?
-```
-Whichever method gives you some nice objects to work with as a starting point.
-```
+*Whichever method gives you some nice objects to work with as a starting point.*
 
 ### Revisiting Axiom of Choice
 I was thinking back about the Axiom of Choice
@@ -32,17 +68,16 @@ Ok so I finally broke free of the problem, after narrowing down the problem usin
 I had trouble wrapping my head around the objects in the problem.
 What helped was 
 
-```
-Going through the problem in my head again, 
-working through the problem again
-like rereading a book from the beginning
-```
+*Going through the problem in my head again*
+*working through the problem again*
+*like rereading a book from the beginning*
+
 The second thing I realized that I had trouble and issues with was
-```
-Set good starting points.
-Perhaps more than one.
-And have confidence in them that they are good starting points
-```
+
+*Set good starting points*
+*Perhaps more than one*
+*And have confidence in them that they are good starting points*
+
 Often times when I start a new problem, the initial statements given in the problem give me a rush and a surge of joy as it gives me what I percieve as a good/solid starting point in which to work out the problem. Similar points must be made during the process of problem solving, and treated with the same kind of faith and trust.
 
 
@@ -93,7 +128,7 @@ I had constructed an object. But I had not carefully considered it.
 I had brushed it off because it seemed too complicated. And complicated things do not lead to solutions.
 What makes it complicated?
 Is it actually complicated?
-**Such assumptions are dangerous**
+*Such assumptions are dangerous*
 What makes it complicate
 Is this a valid object?
 If not how can it be improved?
