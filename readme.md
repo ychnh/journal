@@ -12,6 +12,11 @@ I think you should not measure progress from a day to day basis on the number of
 Because some are more difficult than others.
 *The journey is more important than the destination*
 
+# 210203
+ *How to make the problem similar to a previous one?*
+ *What information do we need?*
+ **
+
 # 210126
 
 ### For cardinal numbers a,b one of the following is true. a<b a>b a=b
