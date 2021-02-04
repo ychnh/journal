@@ -1,6 +1,7 @@
 # TODO
 Review the connections btw Zorn, Ax, and Well Ordering
 * focus on zorn-wo
+* as
 
 # Overview
 Here is a journal which I attempt to log and focus on the process of problem solving.
