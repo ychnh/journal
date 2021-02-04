@@ -13,8 +13,8 @@ Because some are more difficult than others.
 *The journey is more important than the destination*
 
 # 210203
- *How to make the problem similar to a previous one?*
- *What information do we need?*
+*How to make the problem similar to a previous one?*
+*What information do we need?*
 
 # 210126
 
