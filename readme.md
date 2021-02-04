@@ -20,22 +20,30 @@ Because some are more difficult than others.
 # 210126
 
 ### For cardinal numbers a,b one of the following is true. a<b a>b a=b
+
 If I cannot form an injection in 1 direction, i should be able to use the failed injection to form an injection in the other direction.
 Why would it fail? becacuse it doesn't have enough elements in the image to embedded.
 
 If we cannot form a 1-way injection, there should be a way to form the injection the other way.
+
 *What do we need to continue?* 
+
 We need the mapping, it would be nice to find the exact point at which it fails or the point right before where it fails.
 *Can you construct it?*
+
 What involves in the construction?
 We see an example of construction by Zorn's Lemma. 
 This type of construction is interesting and is quite fundamental 
+
 *How is it similar or different from what you know?*
+
 It is simliar in the sense that you iterate
 Wait the well ordering principal is a product of zorn
 And induction is based on this
 So yes. It is induction.
+
 *How is it different?*
+
 From a high level, this problem doesn't prove the property for all elements, in a upwards fashion
 Instead it finds a specific point, the maximal point which satisfies a particular property.
 
